@@ -16,7 +16,7 @@ I am a passionate Flutter and backend developer who loves building robust, scala
 
 <!-- Add your LinkedIn link here -->
 
-[Connect on LinkedIn](https://www.linkedin.com/in/your-link/)
+[Connect on LinkedIn](https://www.linkedin.com/in/baali-boudjemaa/)
 
 ---
 
@@ -48,15 +48,6 @@ I am a passionate Flutter and backend developer who loves building robust, scala
 - **Backend APIs:**
   - [Project 3](#)
   - [Project 4](#)
-
----
-
-## Articles & Tutorials
-
-- [Medium](https://medium.com/@your-medium)
-- [YouTube](https://youtube.com/@your-channel)
-
----
 
 <img align="left" alt="Baali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true" />
 
