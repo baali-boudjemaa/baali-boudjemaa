@@ -5,7 +5,7 @@ I am a passionate Flutter and backend developer who loves building robust, scala
 - **Flutter (Mobile & Web)** : 9/10
 - **Backend (Node.js, REST APIs)** : 8/10
 - **UI/UX Design** : 6/10
-- **Frontend (nextjs)** : 6/10
+- **Frontend (nextjs)** : 4/10
 
 ### Portfolio
 
